@@ -42,4 +42,4 @@ As i'm still working with the project, the nexts steps will include:
 - Run npm start
 
 Back-end repository is hosted on https://github.com/mlabato/odmexpress:
-
+A video demo of the website can be found here: https://youtu.be/EzInQDyL1Iw
