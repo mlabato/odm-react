@@ -12,7 +12,8 @@ I realised that the web needed two services: a back-end and a front-end, both ho
 
 ## Functionalities
 The service offer:
-- API consumption with Axios/Fetch
+- API consumption with Fetch
+- Use of React Hooks (useContext, useEffect, useState, useNavigate, useParams, useReducer) to build reusable and scalable code.
 - Routing with react-router
 - Stying with Tailwind.css
 - Home, product categories, product sales and product details pages
